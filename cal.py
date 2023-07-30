@@ -1,5 +1,5 @@
-n1=int(print("Enter the number1"))
-n2=int(print("Enter the number2"))
+n1=int(input("Enter the number1"))
+n2=int(input("Enter the number2"))
 
 
 
